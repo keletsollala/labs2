@@ -19,18 +19,15 @@ sleep 1
   touch index.html
   echo "<html>">>index.html
   echo "<body>" >>index.html
+  echo "<h1>Student Information Page</h1>">>index.html
+  echo"<p>SJ <br> KL</p>">>index.html
+  echo"<p>SFISO <br> KELETSO</p>">>index.html
+  echo"<p>221802177 <br> 218540493</p>">>index.html
+  echo"<p>Compter Systems <br> Compter Systems</p>index.html 
+  echo"</body>">>index.html
+  echo"</html>">>endex.html
 
-  <html>
-      <body>
-      <h1>Student Information Page</h1>
-      <p>SJ</p> <br> <p>KL</p>
-      <p>SFISO</p> <br> <p>KELETSO</p>
-      <p>221802177</p> <br> <p>218540493</p>
-      <p>Compter Systems</p> <br> <p>Compter Systems</p>
-      </body>
-  </html>
-
-  else
+else
   echo"error"
   exit 1
 
