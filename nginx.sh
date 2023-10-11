@@ -20,15 +20,15 @@ sleep 1
   echo "<html>">>index.html
   echo "<body>" >>index.html
   echo "<h1>Student Information Page</h1>">>index.html
-  echo"<p>SJ <br> KL</p>">>index.html
-  echo"<p>SFISO <br> KELETSO</p>">>index.html
-  echo"<p>221802177 <br> 218540493</p>">>index.html
-  echo"<p>Compter Systems <br> Compter Systems</p>index.html 
-  echo"</body>">>index.html
-  echo"</html>">>endex.html
+  echo "<p>SJ <br> KL</p>">>index.html
+  echo "<p>SFISO <br> KELETSO</p>">>index.html
+  echo "<p>221802177 <br> 218540493</p>">>index.html
+  echo "<p>Compter Systems <br> Compter Systems</p>index.html 
+  echo "</body>">>index.html
+  echo "</html>">>endex.html
 
 else
-  echo"error"
+  echo "error"
   exit 1
 
   fi
